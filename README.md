@@ -56,12 +56,12 @@ My work connects the front-end of growth — outreach, ICP mapping, appointment 
 | Project | Focus | Link |
 |---|---|---|
 | **Aapla Kisan Growth System** | Product strategy, fresh supply chain model, UI/UX, SOPs, MVP, stakeholder journeys, procurement and pricing | [View Repo](https://github.com/vaishnavkadhao/aapla-kisan-growth-system) |
-| **B2B Lead Generation Operating System** | ICP research, account mapping, LinkedIn outreach, CRM hygiene, campaign workflow, appointment generation | Coming Soon |
-| **AI-Assisted Marketing Workflow Blueprint** | AI research, lead routing, chatbot planning, follow-up workflows, automation planning | Coming Soon |
+| **LeadFlow** | B2B SaaS lead generation OS, ICP builder, lead database, cold email sequences, LinkedIn outreach, CRM-style pipeline, analytics | [View Repo](https://github.com/vaishnavkadhao/leadflow) |
+| **AI-Assisted Marketing Workflow Blueprint** | AI research, lead routing, chatbot planning, follow-up workflows, automation planning | Planned |
 
 ---
 
-## Aapla Kisan Growth System
+## Project Preview: Aapla Kisan Growth System
 
 <img src="https://raw.githubusercontent.com/vaishnavkadhao/aapla-kisan-growth-system/main/assets/images/aapla-kisan-hero-preview.png" alt="Aapla Kisan Growth System Preview" width="100%" />
 
@@ -76,6 +76,23 @@ Aapla Kisan is a proof-of-work case study for a fresh produce platform connectin
 | Procurement & Pricing Model | Complete |
 | SOP & Operations Design | Complete |
 | Stakeholder Journey Maps | Complete |
+
+---
+
+## Project Preview: LeadFlow
+
+<img src="https://raw.githubusercontent.com/vaishnavkadhao/leadflow/main/assets/leadflow-banner.svg" alt="LeadFlow B2B SaaS Lead Generation Operating System" width="100%" />
+
+LeadFlow is a proof-of-work B2B SaaS project for managing the lead generation workflow from **ICP setup, lead database management, cold email sequences, LinkedIn outreach, CRM-style pipeline tracking, and analytics dashboards**.
+
+| Module | Purpose |
+|---|---|
+| ICP & Persona Builder | Define targeting logic before outreach |
+| Lead Database | Manage leads, notes, tasks, filters, imports, and exports |
+| Cold Email Sequences | Structure multi-step outbound campaigns |
+| LinkedIn Outreach | Plan touchpoints and save outreach templates |
+| Pipeline Kanban | Move qualified leads through CRM-style stages |
+| Analytics Dashboard | Track funnel, source mix, activities, and campaign KPIs |
 
 ---
 
