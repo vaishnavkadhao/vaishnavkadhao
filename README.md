@@ -1,151 +1,147 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Vaishnav Kadhao - Business Growth · Lead Generation · Digital" width="100%" />
+<img src="./assets/profile-banner.svg" alt="Vaishnav Kadhao - Performance Marketing, Lead Generation, CRM Automation" width="100%" />
 
-# Hey, I'm Vaishnav Kadhao 👋
+# Vaishnav D. Kadhao
 
-**Business Development & Marketing Automation | CRM, Lead Generation, AI Workflows**
+**Performance Marketing | Google/Meta/LinkedIn Ads | Lead Generation & Business Development | CRM & Marketing Automation | GA4/GTM**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7f77dd?style=for-the-badge&logo=globe&logoColor=white)](https://vaishnavkadhao.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-kadhao)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnav.kadhao1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishnavkadhao)
 
----
-
 </div>
 
-## 👤 About
-
-I build tools and dashboards that help B2B teams generate, qualify, and convert leads faster. My background spans inside sales, CRM operations, and digital marketing — and I'm now combining that domain knowledge with Python, ML, and full-stack development to automate the parts of the sales funnel that most teams still do manually.
 ---
 
-## 🚀 Featured Projects
+## About
+
+I work across performance marketing, lead generation, business development, CRM workflows, campaign operations, and AI-assisted marketing automation.
+
+My background combines paid media, prospect research, ICP mapping, lead qualification, CRM hygiene, follow-up workflows, GTM planning, and campaign analytics across US and domestic markets. At Xin Global, I supported 3-6 concurrent client campaigns and contributed to 1,500+ qualified leads through paid media and multi-channel lead-generation campaigns.
+
+This GitHub portfolio shows how marketing teams can use dashboards, tracking logic, CRM data, and lightweight AI-assisted workflows to improve campaign decisions, lead quality, reporting, and business execution.
+
+---
+
+## Focus Areas
+
+- Performance marketing and paid media planning across Google Ads, Meta Ads, and LinkedIn Ads
+- Lead generation, business development, prospect research, ICP mapping, and outreach workflows
+- CRM and marketing automation using Zoho CRM, Mailchimp, Brevo, Zapier, n8n, and AI tools
+- Campaign analytics, GA4/GTM measurement planning, UTM governance, reporting, and lead-quality review
+- AI-assisted portfolio projects built to explain marketing operations, campaign health, and GTM workflows
+
+---
+
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 AI Lead Scoring & Conversion Intelligence
-*Logistic regression on 9,240 real leads. Predicts Hot/Warm/Cold, explains why, recommends next action.*
+### AI Performance-Marketing Lab
+Campaign analytics dashboard for reviewing CTR, CPL, CAC, qualified leads, budget pacing, lead quality, and campaign health.
 
-`Python` `scikit-learn` `Streamlit` `Plotly`
+`Python` `Streamlit` `Plotly` `GA4 Logic` `CRM Quality`
 
-[→ Repo](https://github.com/vaishnavkadhao/ai-lead-scoring-conversion-intelligence) · [🚀 Live Demo](https://ai-lead-scoring-conversion-intelligence-6hbdet9neqq3q84jtayql6.streamlit.app)
+[Repo](https://github.com/vaishnavkadhao/ai-performance-marketing-automation-lab) | [Live Demo](https://ai-performance-marketing-automation-lab-zzvxdwladc8tnrfaytvtxy.streamlit.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚛️ LeadFlow — Full-Stack B2B SaaS
-*ICP builder, lead database, outreach sequences, BANT/MEDDIC scoring, drag-and-drop Kanban, analytics.*
-
-`React` `TypeScript` `Supabase` `Tailwind`
-
-[→ Repo](https://github.com/vaishnavkadhao/leadflow) · [🚀 Live Demo](https://leadflow.vaishnavkadhao.workers.dev)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📡 GTM + GA4 Measurement Dashboard
-*UTM governance, GA4 event taxonomy, GTM trigger mapping, conversion-tracking QA.*
+### GTM + GA4 Measurement Dashboard
+UTM governance, GA4 event taxonomy, GTM trigger mapping, conversion-tracking QA, and attribution-readiness.
 
 `Python` `Streamlit` `Plotly` `GTM` `GA4`
 
-[→ Repo](https://github.com/vaishnavkadhao/gtm-ga4-measurement-dashboard-system) · [🚀 Live Demo](https://gtm-ga4-measurement-dashboard-system-sqywsegpmhzcxzz23wcwwr.streamlit.app)
+[Repo](https://github.com/vaishnavkadhao/gtm-ga4-measurement-dashboard-system) | [Live Demo](https://gtm-ga4-measurement-dashboard-system-sqywsegpmhzcxzz23wcwwr.streamlit.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### LeadFlow
+B2B lead-generation and sales-workflow tool with ICP builder, outreach sequences, qualification scoring, analytics, and pipeline Kanban.
+
+`React` `TypeScript` `Supabase` `Tailwind` `Cloudflare`
+
+[Repo](https://github.com/vaishnavkadhao/leadflow) | [Live Demo](https://leadflow.vaishnavkadhao.workers.dev)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 AI Campaign Health Intelligence
-*Multi-source campaign analytics with health scoring, budget pacing, and optimization recommendations.*
+### AI Lead Scoring & Conversion Intelligence
+Lead-scoring dashboard using logistic regression on a public dataset to classify leads, explain conversion signals, and suggest next actions.
 
-`Python` `Streamlit` `Plotly` `GA4 Logic`
+`Python` `scikit-learn` `Streamlit` `Plotly`
 
-[→ Repo](https://github.com/vaishnavkadhao/ai-performance-marketing-automation-lab) · [🚀 Live Demo](https://ai-performance-marketing-automation-lab-zzvxdwladc8tnrfaytvtxy.streamlit.app)
+[Repo](https://github.com/vaishnavkadhao/ai-lead-scoring-conversion-intelligence) | [Live Demo](https://ai-lead-scoring.streamlit.app/)
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🌱 Aapla Kisan Growth System *(Case Study)*
-*Product strategy, pilot blueprint, and supply chain operating model for a farm-to-consumer platform. Self-initiated case study covering business model, SOPs, UI/UX, MVP planning, and stakeholder journeys.*
+### SignalFlow AI
+AI-assisted content-operations dashboard for trend signals, approvals, review-ready calendars, and campaign content workflows.
 
-`Business Analysis` `Product Strategy` `SOPs` `UI/UX` `GTM`
+`React` `TypeScript` `Python` `Gemini BYOK` `Render`
 
-[→ Repo](https://github.com/vaishnavkadhao/aapla-kisan-growth-system)
+[Repo](https://github.com/vaishnavkadhao/signalflow-ai-content-pipeline) | [Live Demo](https://signalflow-ai-content-pipelines.onrender.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### Aapla Kisan Growth System
+Sanitized consulting case study covering GTM planning, media planning, MVP scope, stakeholder journeys, SOPs, pilot planning, and dashboard requirements.
+
+`GTM` `Media Planning` `Business Analysis` `SOPs` `Workflow Design`
+
+[Repo](https://github.com/vaishnavkadhao/aapla-kisan-growth-system)
 
 </td>
 </tr>
 </table>
 
----
-
-## 🛠️ Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-**📈 Marketing & CRM**
-![Zoho](https://img.shields.io/badge/Zoho_CRM-E42527?style=flat-square&logo=zoho&logoColor=white)
-![Apollo](https://img.shields.io/badge/Apollo.io-0066FF?style=flat-square)
-![LinkedIn](https://img.shields.io/badge/Sales_Navigator-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
-![HubSpot](https://img.shields.io/badge/HubSpot_(learning)-FF7A59?style=flat-square&logo=hubspot&logoColor=white)
-![GA4](https://img.shields.io/badge/Google_Analytics_4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![GTM](https://img.shields.io/badge/Google_Tag_Manager-246FDB?style=flat-square&logo=google-tag-manager&logoColor=white)
-
-**🧠 Data & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-</td>
-<td valign="top" width="50%">
-
-**⚛️ Frontend & Full-Stack**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
-**⚙️ Automation & Tools**
-![Make](https://img.shields.io/badge/Make_(learning)-6D00CC?style=flat-square&logo=make&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n_(learning)-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
+> Streamlit demos may show a wake-up screen after inactivity. Click the wake button once and the app should load.
 
 ---
 
-## 💼 Experience
+## Tools & Platforms
 
-**🏢 Inside Sales & Lead Generation** · *Xin Global Solutions* · May 2024 — Jun 2025
-- Managed B2B outbound prospecting using Apollo, LinkedIn Sales Navigator, and Zoho CRM
-- Built lead lists, ran email sequences, qualified leads, and tracked pipeline
-- Contributed to **1,500+ qualified leads** across **3-6 active campaigns**, ~3 discovery appointments weekly
+**Paid Media & Analytics:** Google Ads, Meta Ads, LinkedIn Ads, GA4, Google Tag Manager, Google Search Console, Microsoft Clarity, Looker Studio
 
-**🌱 GTM & Growth Consulting** · *Aapla Kisan (Self-Initiated Case Study)* · Jun 2025 — Apr 2026
-- Designed product strategy, pilot plan, procurement model, and SOPs for a fresh produce platform
-- Produced 7-layer documentation: business model → stakeholder journey maps → MVP feature list
+**CRM, Lead Gen & Outreach:** Zoho CRM, LinkedIn Sales Navigator, Apollo, ZoomInfo, Lusha, Mailchimp, Brevo
 
-**🏔️ Founder** · *Wild Gems Expeditions* · Aug 2016 — Aug 2022
-- Built and operated a wildlife travel business — marketing, operations, customer management
-- Acquired and managed **200+ customers** through referrals and direct outreach
+**Automation & AI:** Zapier, n8n, ChatGPT, Claude, Gemini
+
+**Research, Reporting & Planning:** Excel, Google Sheets, Notion, Trello, Canva, Figma, Miro, draw.io
+
+**Project Build Stack:** Python, Streamlit, Plotly, React, TypeScript, Supabase, Cloudflare, Render
 
 ---
 
-## 📊 GitHub Stats
+## Experience Snapshot
+
+**Performance Marketing & Demand Generation Executive** - Xin Global Services Pvt. Ltd. - May 2024 to Jun 2025  
+- Supported performance marketing, demand generation, lead qualification, CRM workflows, and multi-channel outreach for SaaS, technology, media, and digital-services clients.
+- Contributed to 1,500+ qualified leads through paid media and multi-channel lead-generation campaigns.
+- Worked with Google Ads, Meta Ads, LinkedIn Ads, Zoho CRM, LinkedIn Sales Navigator, Apollo, ZoomInfo, Lusha, Mailchimp, Brevo, Excel, and Google Sheets.
+
+**Digital Marketing Consultant - Media Planning & GTM** - Aapla Kisan - Jun 2025 to Apr 2026  
+- Delivered GTM planning, media planning, MVP scope, customer journey mapping, SOP direction, automation workflow concepts, and dashboard requirements for an agri-commerce venture.
+- Documented and handed over the work for the client's MVP and pilot implementation phase.
+
+**Founder & Planner** - Wild Gems Expeditions - Aug 2016 to Aug 2020  
+- Built and operated a niche expedition venture across 8-10 locations, managing customer acquisition, service positioning, vendor coordination, and client relationships.
+- Served 200+ customers through referrals, direct outreach, and relationship-led growth.
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -158,18 +154,12 @@ I build tools and dashboards that help B2B teams generate, qualify, and convert 
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnav-kadhao)
 [![Gmail](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaishnav.kadhao1@gmail.com)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-7f77dd?style=for-the-badge&logo=globe&logoColor=white)](https://vaishnavkadhao.github.io/)
-
----
-
-*"The best leads don't come from luck — they come from systems."*
-
-<sub>⭐ If any of my projects spark an idea, drop me a message — always open to interesting conversations about sales ops, growth, and automation.</sub>
 
 </div>
